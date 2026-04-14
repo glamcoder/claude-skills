@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+---
+
 # Claude Skills Collection
 
 A personal collection of custom skills for [Claude.ai](https://claude.ai), built to make AI assistance more contextual, expert-level, and tailored to specific workflows.
@@ -70,7 +74,3 @@ These skills are personal and opinionated — they're built around a specific se
 - Fork the repo
 - Edit `SKILL.md` to reflect your gear, genres, and preferences
 - Run `make build` to create the installable `.skill` package
-
-## License
-
-MIT — use freely, adapt freely.
